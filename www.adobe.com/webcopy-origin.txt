@@ -1,0 +1,380 @@
+Uri: https://auth.services.adobe.com/imslib/imslib.min.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\imslib\imslib.min.js
+Content Type: application/javascript
+
+Uri: https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_PR_Tut2-Clr_marquee-700x1400?wid=1920
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\is\image\CCProdAuthor\dt_PR_Tut2-Clr_marquee-700x1400
+Content Type: image/jpeg
+
+Uri: https://cc-prod.scene7.com/is/image/CCProdAuthor/mb_PR_Tut1-AnmtdTtl_marquis-360x335?wid=599
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\is\image\CCProdAuthor\mb_PR_Tut1-AnmtdTtl_marquis-360x335
+Content Type: image/jpeg
+
+Uri: https://cc-prod.scene7.com/is/image/CCProdAuthor/mb_PR_Tut2-Clr_rvrflw1-288x216?$png$&jpegSize=100&wid=514
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\is\image\CCProdAuthor\mb_PR_Tut2-Clr_rvrflw1-288x216
+Content Type: image/png
+
+Uri: https://cc-prod.scene7.com/is/image/CCProdAuthor/modal-ig-486x944?$png$&jpegSize=100&wid=486
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\is\image\CCProdAuthor\modal-ig-486x944
+Content Type: image/png
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/02205704-79fb-43bd-9f2e-dd772c1a6d6a_1621470827.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\02205704-79fb-43bd-9f2e-dd772c1a6d6a_1621470827.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/1561e6e1-3843-4b7a-9db6-92bacb53537e_1620261897.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\1561e6e1-3843-4b7a-9db6-92bacb53537e_1620261897.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/1ffb3dfa-568e-469b-8ed2-23e132681769_1592348374.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\1ffb3dfa-568e-469b-8ed2-23e132681769_1592348374.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/24195d1c-0ec7-4880-9bbf-e3d1978cbfeb_1626468634.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\24195d1c-0ec7-4880-9bbf-e3d1978cbfeb_1626468634.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/25555ffc-c7bd-4a8c-9206-39aa3a76e405_1621353632.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\25555ffc-c7bd-4a8c-9206-39aa3a76e405_1621353632.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/2b63b917-dba5-4327-bda7-b230e7b109cf_1590704893.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\2b63b917-dba5-4327-bda7-b230e7b109cf_1590704893.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/42b874ad-3cb9-4063-9594-c0fcfc517132_1629825425.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\42b874ad-3cb9-4063-9594-c0fcfc517132_1629825425.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/42f6ebf3-d891-4815-aff8-f858a08b957d_1620257026.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\42f6ebf3-d891-4815-aff8-f858a08b957d_1620257026.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/47cda780-21eb-4b5e-ad97-f500ecec7156_1591373335.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\47cda780-21eb-4b5e-ad97-f500ecec7156_1591373335.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/484e4967-3652-4220-b356-5572657198be_1620257048.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\484e4967-3652-4220-b356-5572657198be_1620257048.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/53ccec31-5f9a-42e1-9518-9af4b94f8b90_1592348146.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\53ccec31-5f9a-42e1-9518-9af4b94f8b90_1592348146.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/5e0cb393-45b7-4b31-82c4-b56977ed452e_1592347578.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\5e0cb393-45b7-4b31-82c4-b56977ed452e_1592347578.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/61b45ed3-1133-40bf-afec-01b9fe2f16c0_1590704905.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\61b45ed3-1133-40bf-afec-01b9fe2f16c0_1590704905.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/7122798e-da0a-4afa-90a3-544e76608b4c_1626470415.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\7122798e-da0a-4afa-90a3-544e76608b4c_1626470415.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/82853d61-8184-4a5b-9b92-311d6bc53537_1621301356.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\82853d61-8184-4a5b-9b92-311d6bc53537_1621301356.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/8393ba76-0850-44f5-a09d-5d591542fe52_1626903270.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\8393ba76-0850-44f5-a09d-5d591542fe52_1626903270.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/89d047bf-8c31-4b9a-bd48-becb14b5933e_1592348058.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\89d047bf-8c31-4b9a-bd48-becb14b5933e_1592348058.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/8a15fad6-06fb-4c60-b301-7ab5acc0c863_1621445389.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\8a15fad6-06fb-4c60-b301-7ab5acc0c863_1621445389.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/953212e4-636f-423a-9313-0b4764287097_1620256854.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\953212e4-636f-423a-9313-0b4764287097_1620256854.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/96d51339-b4b7-4171-b96b-24042dee2b62_1620262073.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\96d51339-b4b7-4171-b96b-24042dee2b62_1620262073.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/a2b29cc5-6df4-4d33-9175-e7575c4b44ca_1624385408.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\a2b29cc5-6df4-4d33-9175-e7575c4b44ca_1624385408.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/bec122aa-0bf8-4653-8b9d-d7f5b9b12d74_1592348125.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\bec122aa-0bf8-4653-8b9d-d7f5b9b12d74_1592348125.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/c416db0a-177c-45d2-8491-81af481a5198_1624383222.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\c416db0a-177c-45d2-8491-81af481a5198_1624383222.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/cbdfb7af-2bc7-4f30-8fc1-e6f8a28d13e1_1621352016.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\cbdfb7af-2bc7-4f30-8fc1-e6f8a28d13e1_1621352016.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/cce651f8-fa54-44f3-945f-910908e97174_1624379588.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\cce651f8-fa54-44f3-945f-910908e97174_1624379588.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/d1b90a3d-858e-48b2-9038-cce686c0d36b_1593034086.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\d1b90a3d-858e-48b2-9038-cce686c0d36b_1593034086.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/d73f290d-8fba-40df-a0cc-3880a1eea695_1620262204.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\d73f290d-8fba-40df-a0cc-3880a1eea695_1620262204.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/db0dd3b1-58d1-4455-a280-4343a8f42483_1619107267.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\db0dd3b1-58d1-4455-a280-4343a8f42483_1619107267.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/dd93b061-e505-4491-ad9d-d91d18118bf2_1591050986.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\dd93b061-e505-4491-ad9d-d91d18118bf2_1591050986.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/df6b9be7-d87b-4ab8-96e6-db43187a8b15_1624388505.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\df6b9be7-d87b-4ab8-96e6-db43187a8b15_1624388505.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/e0907f37-8e3c-4140-934c-6c800756f740_1624390048.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\e0907f37-8e3c-4140-934c-6c800756f740_1624390048.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/e17edf9c-e25e-4d87-a52c-f1c820e68ed2_1626378509.1280x720at2000_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\e17edf9c-e25e-4d87-a52c-f1c820e68ed2_1626378509.1280x720at2000_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/e2363f0e-c9bc-4515-9a58-0574392a4ee6_1590704901.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\e2363f0e-c9bc-4515-9a58-0574392a4ee6_1590704901.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/e2e1f7dd-0031-44f7-8d83-31e4b36d29a8_1592348288.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\e2e1f7dd-0031-44f7-8d83-31e4b36d29a8_1592348288.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/1041/f30ed293-ea55-4e83-8066-d644a9903263_1631905983.960x540at1200_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\1041\f30ed293-ea55-4e83-8066-d644a9903263_1631905983.960x540at1200_h264.mp4
+Content Type: video/mp4
+
+Uri: https://images-tv.adobe.com/mpcv3/3710/1979029f-3392-4872-b995-d6ed7e06f06d_1585247187.854x480at800_h264.mp4
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\mpcv3\3710\1979029f-3392-4872-b995-d6ed7e06f06d_1585247187.854x480at800_h264.mp4
+Content Type: video/mp4
+
+Uri: https://use.typekit.net/aaz7dvd.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\aaz7dvd.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/37eaae/00000000000000003b9b3f83/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\37eaae\00000000000000003b9b3f83\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/37eaae/00000000000000003b9b3f83/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\37eaae\00000000000000003b9b3f83\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/37eaae/00000000000000003b9b3f83/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\37eaae\00000000000000003b9b3f83\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/97fbd1/00000000000000003b9b3f88/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\97fbd1\00000000000000003b9b3f88\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/97fbd1/00000000000000003b9b3f88/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\97fbd1\00000000000000003b9b3f88\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/97fbd1/00000000000000003b9b3f88/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\97fbd1\00000000000000003b9b3f88\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/a0c22f/00000000000000003b9b3f84/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\a0c22f\00000000000000003b9b3f84\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/a0c22f/00000000000000003b9b3f84/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\a0c22f\00000000000000003b9b3f84\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/a0c22f/00000000000000003b9b3f84/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\a0c22f\00000000000000003b9b3f84\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/aa41d0/00000000000000003b9b3f86/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\aa41d0\00000000000000003b9b3f86\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/aa41d0/00000000000000003b9b3f86/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\aa41d0\00000000000000003b9b3f86\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/aa41d0/00000000000000003b9b3f86/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\aa41d0\00000000000000003b9b3f86\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/ad2a79/00000000000000003b9b3f8c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\ad2a79\00000000000000003b9b3f8c\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/ad2a79/00000000000000003b9b3f8c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\ad2a79\00000000000000003b9b3f8c\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/ad2a79/00000000000000003b9b3f8c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\ad2a79\00000000000000003b9b3f8c\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/b0c5f5/00000000000000003b9b3f85/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\b0c5f5\00000000000000003b9b3f85\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/b0c5f5/00000000000000003b9b3f85/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\b0c5f5\00000000000000003b9b3f85\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/b0c5f5/00000000000000003b9b3f85/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\b0c5f5\00000000000000003b9b3f85\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/c8f445/00000000000000003b9aee47/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\c8f445\00000000000000003b9aee47\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/c8f445/00000000000000003b9aee47/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\c8f445\00000000000000003b9aee47\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/c8f445/00000000000000003b9aee47/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\c8f445\00000000000000003b9aee47\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/e09494/00000000000000003b9aee45/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\e09494\00000000000000003b9aee45\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/e09494/00000000000000003b9aee45/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\e09494\00000000000000003b9aee45\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/e09494/00000000000000003b9aee45/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\af\e09494\00000000000000003b9aee45\27\l
+Content Type: application/font-woff2
+
+Uri: https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ru_appicon.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\acom\one-console\icons_rebrand\ru_appicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/content/dam/cc/Adobe_favicon.ico
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\cc\Adobe_favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.adobe.com/content/dam/cc/icons/app-store-badge-US-blk.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\cc\icons\app-store-badge-US-blk.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/content/dam/cc/icons/down-chevron.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\cc\icons\down-chevron.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/content/dam/cc/icons/pr_cc_app_RGB.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\cc\icons\pr_cc_app_RGB.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\cct\creativecloud\business\teams\free-trial-new\desktop_premiere.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\content\dam\shared\images\product-icons\svg\premiere.svg
+Content Type: image/svg+xml
+
+Uri: https://www.adobe.com/etc.clientlibs/globalnav/clientlibs/base/feds.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.clientlibs\globalnav\clientlibs\base\feds.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/consonantcardcollection.fp-84c6876aec242505c1645e90e6d38dbf.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\consonantcardcollection.fp-84c6876aec242505c1645e90e6d38dbf.css
+Content Type: text/css
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/consonantcardcollection.fp-88674a33623678ef6e920dde642cc09a.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\consonantcardcollection.fp-88674a33623678ef6e920dde642cc09a.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/head.fp-aea93f05b6b1d58ec00832abc552ee87.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\head.fp-aea93f05b6b1d58ec00832abc552ee87.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/headIE.fp-0cf9f7f31c9972858ba6edd3121ca74c.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\headIE.fp-0cf9f7f31c9972858ba6edd3121ca74c.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/themethree.fp-c70378bef8897eb8371f5e62aacc5edb.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\themethree.fp-c70378bef8897eb8371f5e62aacc5edb.css
+Content Type: text/css
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/dexter/clientlibs/base/themetwo.fp-126b8631380cfc4c397f47ab78302355.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\dexter\clientlibs\base\themetwo.fp-126b8631380cfc4c397f47ab78302355.css
+Content Type: text/css
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/hawks/clientlibs/base/themetwotypography.fp-1197196fe2e651256e467d9acaccb765.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\hawks\clientlibs\base\themetwotypography.fp-1197196fe2e651256e467d9acaccb765.css
+Content Type: text/css
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/hawks/clientlibs/publish.combined.fp-83c6c16989da0eb90dfd11e00c29643e.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\hawks\clientlibs\publish.combined.fp-83c6c16989da0eb90dfd11e00c29643e.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/etc.hawks.dexterlibs/hawks/clientlibs/publish.combined.fp-e95d1711dbb05741c26041c3fce5c554.css
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\etc.hawks.dexterlibs\hawks\clientlibs\publish.combined.fp-e95d1711dbb05741c26041c3fce5c554.css
+Content Type: text/css
+
+Uri: https://www.adobe.com/marketingtech/main.no-promise.min.js
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\marketingtech\main.no-promise.min.js
+Content Type: application/javascript
+
+Uri: https://www.adobe.com/products/premiere-rush.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere-rush.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere-rush/video-editing-app.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere-rush\video-editing-app.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere-rush/youtube-video-editor.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere-rush\youtube-video-editor.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere-1.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere.html?mv=search%252Csearch&sdid=B4XQ3SY4&ef_id=CjwKCAiA4veMBhAMEiwAU4XRryDnqdOmYVwzyVvK4RYitRlqnL-CYXgxL_ZM-M9UJl1RUZWFw9UhZxoCICcQAvD_BwE%253AG%253As&s_kwcid=AL!3085!3!435691316298!b!!g!!%252B%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B5%25D0%25BE%25D1%2580%25D0%25B5%25D0%25B4%25D0%25B0%25D0%25BA%25D1%2582%25D0%25BE%25D1%2580!10080283845!100993513653&gclid=CjwKCAiA4veMBhAMEiwAU4XRryDnqdOmYVwzyVvK4RYitRlqnL-CYXgxL_ZM-M9UJl1RUZWFw9UhZxoCICcQAvD_BwE
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/explore/animated-titles.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\explore\animated-titles.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/explore/audio.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\explore\audio.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/explore/color.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\explore\color.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/explore/speech.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\explore\speech.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/movie-and-film-editing.html
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\movie-and-film-editing-1.html
+Content Type: text/html
+
+Uri: https://www.adobe.com/products/premiere/movie-and-film-editing.html?promoid=Y2KRGXD5&mv=other
+File Name: C:\Users\НИКИТА\Desktop\web\www.adobe.com\products\premiere\movie-and-film-editing.html
+Content Type: text/html
+
